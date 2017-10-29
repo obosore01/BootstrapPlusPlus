@@ -1,0 +1,23 @@
+{
+  "name": "BootstrapPlusPlus",
+  "authors": [
+    "Araf Karim"
+  ],
+  "description": "BootstrapPlusPlus is an open source UI KIT based on Bootstrap 4.0 CSS framework. It has all the Bootstrap styles with new look and more additional features for web developers or designers to create elegant web apps.",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bootstrapplusplus.git"
+  },
+  "license": "MIT",
+   "dependencies": {
+    "bootstrap": "~4.0.0-beta.2"
+  },
+  "homepage": "http://bootstrapplusplus.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

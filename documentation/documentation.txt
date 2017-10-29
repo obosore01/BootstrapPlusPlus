@@ -1,0 +1,38 @@
+#BootstrapPlusPlus is an open source UI KIT based on Bootstrap 4.0 CSS framework. It has all the Bootstrap styles with new look and more additional features for web developers or designers to create elegant web apps.
+
+#Installation - After download, unzip the compressed folder then you see the Bootstrap and BootstrapPlusPlus files. You'll see something like this: 
+BootstrapPlusPlus/
+|--css/
+|    |--bootstrap.css
+|    |--bootstrap.min.css
+|    |--bootstrapPlusPlus.css
+|    |--bootstrapPlusPlus.min.css
+|--js/
+|    |--jquery.min.js
+|    |--popper.min.js
+|    |--bootstrap.js
+|    |--bootstrap.min.js
+|    |--bootstrapPlusPlus.js
+|    |--bootstrapPlusPlus.min.js 
+
+Just copy the CSS and JS files then add them to your project. 
+
+#In BootstrapPlusPlus all Bootstrap's classes are included but with new look. BootstrapPlusPlus has some additional classes to create additional style, like - 
+.btn-rounded
+.btn-circle 
+.btn-floating
+.card-testimonial
+.carousel-caption-centered
+.dropdown-hover
+.jumbotron-img
+.jumbotron-img-overlay 
+.modal-top
+.modal-right
+.modal-bottom
+.modal-left
+.pagination-on-border
+.pagination-circle with
+Material color palette and
+Social media color palette.
+
+#Visit our website (www.bootstrapplusplus.com) for complete decumentation with demo and source code.
