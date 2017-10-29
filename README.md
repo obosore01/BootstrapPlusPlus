@@ -8,15 +8,15 @@ Download the bootstrapPlusPlus.css and bootstrapPlusPlus.js; place theme after B
 BootstrapPlusPlus is open source and you’re welcome to modify it.
 
 # Contributing 
-It's through your contributions that Bootswatch will continue to improve. You can contribute in several ways.
-  Issues - Provide a detailed report of any bugs you encounter and open an issue on GitHub.
-  Code - Make a fix and submit it as a pull request.
+It's through your contributions that Bootswatch will continue to improve. You can contribute in several ways.<br/>
+&nbsp;&nbsp; Issues - Provide a detailed report of any bugs you encounter and open an issue on GitHub.<br/>
+&nbsp;&nbsp; Code - Make a fix and submit it as a pull request.
   
 # Thanks
 <a href="https://github.com/mdo" target="_blank">Mark Otto</a> and <a href="https://github.com/fat" target="_blank">Jacob Thornton</a> for <a href="https://github.com/twbs/bootstrap" target="_blank">Bootstrap</a>.
  
 # Copyright and License  
-Copyright 2017 BootstrapPlusPlus
+Copyright 2017 BootstrapPlusPlus<br/>
 Code released under the MIT License.
 
 Visit our website (http://bootstrapplusplus.com) for complete decumentation with demo and source code.
