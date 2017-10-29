@@ -9,7 +9,7 @@ BootstrapPlusPlus is open source and you’re welcome to modify it.
 
 # Contributing 
 It's through your contributions that Bootswatch will continue to improve. You can contribute in several ways.<br/>
-&nbsp;&nbsp; Issues - Provide a detailed report of any bugs you encounter and open an issue on <a href="https://github.com/BootstrapPlusPlus/BootstrapPlusPlus/issues">GitHub</a>.<br/>
+&nbsp;&nbsp; # Issues - Provide a detailed report of any bugs you encounter and open an issue on <a href="https://github.com/BootstrapPlusPlus/BootstrapPlusPlus/issues">GitHub</a>.<br/>
 &nbsp;&nbsp; Code - Make a fix and submit it as a pull request.
   
 # Thanks
