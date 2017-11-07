@@ -1,3 +1,9 @@
+/*!
+ * BootstrapPlusPlus v1.0.0-beta (https://bootstrapplusplus.com)
+ * Copyright 2017 The BootstrapPlusPlus
+ * Licensed under MIT (https://github.com/BootstrapPlusPlus/BootstrapPlusPlus/blob/master/LICENSE.md)
+ */
+
 a {
 	color: rgba(66, 133, 244, 1);
 }
@@ -2649,4 +2655,139 @@ button.list-group-item-dark:hover {
 .progress-bar-striped {
     background-image: linear-gradient(45deg,rgba(255,255,255,.25) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.25) 50%,rgba(255,255,255,.25) 75%,transparent 75%,transparent) !important;
 	background-size: 1rem 1rem !important;
+}
+
+/* waves effect color */
+.waves {
+		position: relative;
+		overflow: hidden;
+		cursor: pointer;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none
+}
+.waves-ink {
+		position: absolute;
+		background: #bdc3c7;
+		border-radius: 50%;
+		-webkit-transform: scale(0);
+		transform: scale(0);
+		opacity: .4
+}
+.waves-ink.animate {
+		-webkit-animation: a .6s linear;
+		animation: a .6s linear
+}
+@-webkit-keyframes a {
+		to {
+				-webkit-transform: scale(2.5);
+				transform: scale(2.5);
+				opacity: 0
+		}
+}
+@keyframes a {
+		to {
+				-webkit-transform: scale(2.5);
+				transform: scale(2.5);
+				opacity: 0
+		}
+}
+.waves-card {
+		background: #fff;
+		border-radius: 2px;
+		display: block;
+		margin: 1rem;
+		position: relative
+}
+.waves-shadow-1 {
+		box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
+		transition: all .2s ease-in-out
+}
+.waves-shadow-2 {
+		box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23);
+		transition: all .2s ease-in-out
+}
+.waves-shadow-3 {
+		box-shadow: 0 10px 20px rgba(0, 0, 0, .19), 0 6px 6px rgba(0, 0, 0, .23);
+		transition: all .2s ease-in-out
+}
+.waves-shadow-4 {
+		box-shadow: 0 14px 28px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .22);
+		transition: all .2s ease-in-out
+}
+.waves-shadow-5 {
+		box-shadow: 0 19px 38px rgba(0, 0, 0, .3), 0 15px 12px rgba(0, 0, 0, .22);
+		transition: all .2s ease-in-out
+}
+.waves-hover:hover {
+		box-shadow: 0 10px 20px rgba(0, 0, 0, .19), 0 6px 6px rgba(0, 0, 0, .23)
+}
+.waves > span {
+	position: relative;
+	display: block;
+	padding: 15px 25px;
+}
+.red-waves > .waves-ink {
+	background-color: #f44336;
+}
+.pink-waves > .waves-ink {
+	background-color: #e91e63;
+}
+.purple-waves > .waves-ink {
+	background-color: #9c27b0;
+}
+.deep-purple-waves > .waves-ink {
+	background-color: #673ab7;
+}
+.indigo-waves > .waves-ink {
+	background-color: #3f51b5;
+}
+.blue-waves > .waves-ink {
+	background-color: #2196f3;
+}
+.light-blue-waves > .waves-ink {
+	background-color: #03a9f4;
+}
+.cyan-waves > .waves-ink {
+	background-color: #00bcd4;
+}
+.teal-waves > .waves-ink {
+	background-color: #009688;
+}
+.green-waves > .waves-ink {
+	background-color: #4caf50;
+}
+.light-green-waves > .waves-ink {
+	background-color: #8bc34a;
+}
+.lime-waves > .waves-ink {
+	background-color: #cddc39;
+}
+.yellow-waves > .waves-ink {
+	background-color: #ffeb3b;
+}
+.amber-waves > .waves-ink {
+	background-color: #ffc107;
+}
+.orange-waves > .waves-ink {
+	background-color: #ff9800;
+}
+.deep-orange-waves > .waves-ink {
+	background-color: #ff5722;
+}
+.brown-waves > .waves-ink {
+	background-color: #795548;
+}
+.grey-waves > .waves-ink {
+	background-color: #9e9e9e;
+}
+.blue-grey-waves > .waves-ink {
+	background-color: #607d8b;
+}
+.black-waves > .waves-ink {
+	background-color: #000000;
+}
+.white-waves > .waves-ink {
+	background-color: #ffffff;
 }
